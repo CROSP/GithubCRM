@@ -1,0 +1,12 @@
+backend/node_modules
+frontend/node_modules
+node_modules
+frontend/.env
+frontend/dist
+frontend/build
+backend/dist
+backend/build
+backend/.env
+.DS_Store
+.idea/
+*/*.sh

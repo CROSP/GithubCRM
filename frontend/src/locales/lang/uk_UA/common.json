@@ -1,0 +1,22 @@
+{
+	"common": {
+		"okText": "Гаразд",
+		"closeText": "Закрити",
+		"cancelText": "Скасувати",
+		"loadingText": "Завантаження...",
+		"saveText": "Зберегти",
+		"delText": "Видалити",
+		"resetText": "Скинути",
+		"searchText": "Пошук",
+		"queryText": "Пошук",
+
+		"inputText": "Будь ласка, введіть",
+		"chooseText": "Будь ласка, оберіть",
+
+		"redo": "Оновити",
+		"back": "Назад",
+
+		"light": "Світла",
+		"dark": "Темна"
+	}
+}

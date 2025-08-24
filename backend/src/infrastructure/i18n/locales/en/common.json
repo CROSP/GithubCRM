@@ -1,0 +1,61 @@
+{
+  "welcome": "Welcome to the NestJS Template API",
+  "errors": {
+    "unauthorized": "Unauthorized access",
+    "forbidden": "Access forbidden",
+    "not_found": "Resource not found",
+    "validation": "Validation error",
+    "server": "Internal server error"
+  },
+  "success": {
+    "created": "Resource created successfully",
+    "updated": "Resource updated successfully",
+    "deleted": "Resource deleted successfully"
+  },
+  "auth": {
+    "login": {
+      "success": "Login successful",
+      "failed": "Invalid credentials",
+      "required": "Email and password are required"
+    },
+    "register": {
+      "success": "Registration successful",
+      "duplicate": "User with this email already exists"
+    },
+    "logout": "Logged out successfully",
+    "2fa": {
+      "setup": "Two-factor authentication setup successful",
+      "enabled": "Two-factor authentication enabled",
+      "disabled": "Two-factor authentication disabled",
+      "invalid": "Invalid two-factor code"
+    },
+    "verification": {
+      "email_sent": "Verification email sent",
+      "success": "Email verified successfully",
+      "invalid": "Invalid verification code",
+      "expired": "Verification code expired"
+    },
+    "password": {
+      "reset_requested": "Password reset requested, check your email",
+      "reset_success": "Password reset successful",
+      "change_success": "Password changed successfully",
+      "invalid_token": "Invalid or expired reset token"
+    }
+  },
+  "user": {
+    "not_found": "User not found",
+    "updated": "User updated successfully",
+    "activated": "User activated successfully",
+    "deactivated": "User deactivated successfully"
+  },
+  "role": {
+    "created": "Role created successfully",
+    "updated": "Role updated successfully",
+    "deleted": "Role deleted successfully",
+    "not_found": "Role not found",
+    "assigned": "Role assigned successfully",
+    "removed": "Role removed successfully",
+    "permission_assigned": "Permission assigned successfully",
+    "permission_removed": "Permission removed successfully"
+  }
+}

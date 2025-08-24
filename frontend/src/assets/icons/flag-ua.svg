@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="component-iconify MuiBox-root css-1virv8 iconify iconify--flagpack" width="1.34em" height="1em" viewBox="0 0 32 24">
+  <defs>
+    <path id="ukraineFlag" fill="#fff" d="M0 0h32v24H0z"></path>
+  </defs>
+  <mask id="ukraineFlagMask" width="32" height="24" x="0" y="0" maskUnits="userSpaceOnUse">
+    <use href="#ukraineFlag"></use>
+  </mask>
+  <g fill="none" mask="url(#ukraineFlagMask)">
+    <!-- Blue stripe (top half) -->
+    <path fill="#005BBB" fill-rule="evenodd" d="M0 0v12h32V0H0z" clip-rule="evenodd"></path>
+    <!-- Yellow stripe (bottom half) -->
+    <path fill="#FFD500" fill-rule="evenodd" d="M0 12v12h32V12H0z" clip-rule="evenodd"></path>
+  </g>
+</svg>
