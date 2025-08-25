@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue.svg)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blue.svg)](https://www.postgresql.org/)
 
-A comprehensive NestJS template implementing **Clean Architecture**, **Domain-Driven Design (DDD)**, **CQRS**, and advanced authentication with automatic token refresh capabilities.
+A comprehensive CRM project implementing **Clean Architecture**, **Domain-Driven Design (DDD)**, **CQRS**, and advanced authentication with automatic token refresh capabilities.
 
 ## 🚀 Features
 
