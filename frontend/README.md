@@ -1,8 +1,6 @@
-# GitHub CRM
+# GitHub CRM Frontend
 
 A modern, feature-rich GitHub repository management dashboard built with React and TypeScript. Track, manage, and analyze your GitHub repositories with real-time synchronization and comprehensive statistics.
-
-![GitHub CRM Dashboard](https://via.placeholder.com/800x400?text=GitHub+CRM+Dashboard)
 
 ## ✨ Features
 
