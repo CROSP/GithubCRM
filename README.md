@@ -1,6 +1,6 @@
 # GitHub CRM
 
-A comprehensive CRM system for managing GitHub interactions and workflows.
+A comprehensive CRM system for managing GitHub public repositories.
 
 ## Quick Start with Docker
 
